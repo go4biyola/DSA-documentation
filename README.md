@@ -6,4 +6,8 @@ SELECT A,B,C
 WHERE A>5
 
 ---
+*italics*
+**bold**
+*merge*
+**append**
 
